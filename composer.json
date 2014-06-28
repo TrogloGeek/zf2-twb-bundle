@@ -1,5 +1,5 @@
 {
-    "name": "neilime/zf2-twb-bundle",
+    "name": "TrogloGeek/zf2-twb-bundle",
     "type": "library",
     "description": "Zend Framework 2 module for easy integration of Twitter Bootstrap",
     "keywords": ["Zend Framework 2","Twitter Bootstrap","bundle"],
@@ -14,7 +14,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/neilime/zf2-twb-bundle/issues"
+        "issues": "https://github.com/TrogloGeek/zf2-twb-bundle/issues"
     },
     "suggest": {
         "neilime/zf2-assets-bundle": "Bundling & caching Twitter Bootstrap assets",
